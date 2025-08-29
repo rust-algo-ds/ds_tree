@@ -1,0 +1,11 @@
+[package]
+name = "ds_tree"
+version = "0.1.0"
+edition = "2024"
+description = "Rust tree data structure Implementations."
+repository = "https://github.com/rust-algo-ds/ds_tree"
+readme = "README.md"
+license = "MIT"
+authors = ["wnanbei <wnanbei@gmail.com>"]
+
+[dependencies]
